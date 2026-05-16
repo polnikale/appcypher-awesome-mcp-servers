@@ -262,6 +262,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 <br />
 
+- <img src="https://www.google.com/s2/favicons?domain=sequenzy.com" height="14"/> [Sequenzy](https://github.com/Sequenzy/mcp) - Email marketing automation MCP server for managing subscribers, templates, campaigns, sequences, transactional emails, analytics, and AI-generated email content.
+<br />
+
 ## 📝 <a name="note-taking"></a>Note Taking
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
